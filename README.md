@@ -397,6 +397,3 @@ sh start_genie.sh
 
 欢迎沟通和联系我们  
 <img width="396" height="396" alt="ME1758722833951" src="https://github.com/user-attachments/assets/0c47720f-78a4-4a98-b634-a8274072d36c" />
-
-
-[//]: # (![contact]&#40;./docs/img/contact.jpg&#41;)
